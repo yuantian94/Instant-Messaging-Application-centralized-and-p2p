@@ -38,4 +38,18 @@ A multi-functional instant messaging applicatio developed using Python socket UD
 
     ![1687673734905](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/12d29725-b692-4089-9ebd-174cddb66794)
 
+# Decentralized - p2p
+A multi-functional instant messaging terminal application developed using Python multithreading socket programming. The chat system allows users to join an online community that is grouped by geographical proxmity or interest. When the users launch chat client, it obtains its geographical location, interest of the user, and the user id. Once the chat client connects to the "network", the user can join a group chat with users who are in geographical proximity or users with matching interest. It also supports both private messaging and group messaging.
 
+- Model structure:
+  
+  - The simple ring type
+
+  ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/b58ab3da-d731-4f7a-8c36-3e0730b8f7c6)
+
+- Advantages:
+  - Robust against single-point failure.
+  - Client file can be lightweight.
+  - No propagating delay issue.
+
+  
