@@ -1,5 +1,5 @@
 # Instant-Messaging-Application-centralized-and-p2p
-A multi-functional instant messaging application developed using Python socket UDP. Centralized version is fully functional by incorporating Sqlite db and Tkinter UI design. P2P version is for proof-of-concept terminal-based application. 
+A multi-functional instant messaging application developed using Python socket UDP. Centralized version is fully functional by incorporating Sqlite db and Tkinter UI design. P2P version is for proof-of-concept, a terminal-based application. 
 
 # Centralized
 A multi-functional instant messaging applicatio developed using Python socket UDP and Tkinter. The features include account registration and login. After successful login, users can view online users and engage in conversations with other online users in the chat room. It supports both private messaging and group messaging, allowing users to send text, emojis, and files, among other functionalities.
