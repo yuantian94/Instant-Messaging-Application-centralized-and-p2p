@@ -57,3 +57,46 @@ A multi-functional instant messaging terminal application developed using Python
   - Message overhead.
   - Complicated coding structure. 
   - Propagation delay and data consistency issues.
+
+- Feature list:
+  - Display online users (command: /list-users)
+  - Send group message
+  - Send private message (command: /send-private-message [userID] [message])
+  - Display current geo location (command: /list-geo)
+  - Join geo based chat group within specified distance (command: /join-geo [radius])
+  - Join interest based chat group (command: /join-interest)
+  - Display whether a user has joined an interest based or geo based chat and a list of users in the current group (command: /status)
+
+- Application Demo:
+  - Connection stage (Demo based on 3-nodes ring structure)
+    
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/8d3ac0f6-a19c-4601-99aa-644b9590f7d1)
+
+  - Lobby Chat (All)
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/987cec41-e0f5-4589-8d34-9601e1b44cc4)
+
+
+  - Display online users
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/36d116a4-5e14-43f4-b4b8-6cd2e223ecdc)
+
+  - Private messeging
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/a67f8a3d-0c98-466f-a8a6-74861247b2ee)
+
+  - Display geo location
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/197c4545-286e-4f60-b69f-6d241c370801)
+
+  - Join geo based chat group
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/5e3193ad-bf57-429a-9e30-e45cfc383cee)
+
+  - Join interest based chat group
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/88fe148a-5463-4b3b-bae4-4d13815909f9)
+
+  - Display whether a user has joined an interest based or geo based chat and a list of users in the current group
+
+    ![image](https://github.com/yuantian94/Instant-Messaging-Application-centralized-and-p2p/assets/13746207/d85684c2-9bcc-4044-aff2-c4edd2060aaf)
