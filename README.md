@@ -4,6 +4,7 @@ A multi-functional instant messaging application developed using Python socket U
 # Centralized
 A multi-functional instant messaging applicatio developed using Python socket UDP and Tkinter. The features include account registration and login. After successful login, users can view online users and engage in conversations with other online users in the chat room. It supports both private messaging and group messaging, allowing users to send text, emojis, and files, among other functionalities.
 
+
 Feature list:
   - Account Registration and Login: Users can register an account and log in to the chat room.
   - Display of Online Users: The chat room interface displays a list of currently online users.
