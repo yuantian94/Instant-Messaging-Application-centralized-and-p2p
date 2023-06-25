@@ -52,4 +52,8 @@ A multi-functional instant messaging terminal application developed using Python
   - Client file can be lightweight.
   - No propagating delay issue.
 
-  
+
+- Disadvantages:
+  - Message overhead.
+  - Complicated coding structure. 
+  - Propagation delay and data consistency issues.
